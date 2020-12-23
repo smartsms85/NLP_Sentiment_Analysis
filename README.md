@@ -1,5 +1,6 @@
-# NLP_Sentiment_Analysis
-f
-##ff
+# ELECTRA 모델 기반 영어 및 한국어 감정 분석기 개발
 
-###ff
+## ① 한국어 감정 분석기 개발
+
+## ② 영어 감정 분석기 개발
+
