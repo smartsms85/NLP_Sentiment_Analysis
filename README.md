@@ -21,11 +21,11 @@
 - 특이사항 : NLP_FRIENDS_ELECTRA_Trial_Onehot.ipynb -> Accuracy 산출용으로 데이터 전처리, 모델 학습 및 검증 단계까지만 구현이 되어 있습니다.
 - 모델 및 데이터는 구글드라이브 사용 기준으로 작성되었습니다. 
 
-## (Ko)ELECTRA 외 추가 연구 내용
+## ③ (Ko)ELECTRA 외 추가 연구 내용
 
 - NSMC, FRIENDS 폴더 내 파일 확인
 
-### 소스코드 및 주요 References
+### ④ 소스코드 및 주요 References
 
 - https://github.com/monologg/KoELECTRA
 - https://huggingface.co/transformers/training.html
