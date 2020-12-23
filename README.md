@@ -1,7 +1,9 @@
+https://github.com/smartsms85/NLP_Sentiment_Analysis
+
 # ELECTRA 모델 기반 영어 및 한국어 감정 분석기 개발
-/NSMC/NLP_NSMC_KoELECTRA.ipynb
 
 ## ① 한국어 감정 분석기 개발
+/NSMC/NLP_NSMC_KoELECTRA.ipynb
 - 사용 모델 : KoELECTRA Base v3
 - 개발 환경 : <br> 
   Google Corab (GPU 사용)<br>
