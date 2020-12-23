@@ -6,7 +6,7 @@
 - 개발 환경 : <br> 
   Google Corab (GPU 사용)<br>
   Base모델 기준 1Epoch 당 약 10~15분 소요<br>
-- 데이터 출처 : https://github.com/e9t/nsmc.git
+- 데이터 출처 : https://github.com/e9t/nsmc.git (/NSMC/Data 폴더 확인)
 - 실행 방법 : 모든 셀 실행 -> 데이터 전처리, 모델 학습 및 검증, 테스트 결과 확인 및 CSV 파일 Fileout 가능
 - 모델 및 데이터는 구글드라이브 기준으로 작성되었습니다.
 
