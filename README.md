@@ -37,4 +37,5 @@
 - http://wikidocs.net/book/2155
 - https://github.com/jiwonny/nlp_emotion_classification
 - https://colab.research.google.com/drive/1JZ-pXlmgRIYHm8yPLYY68Q28l9OYAL6H?usp=sharing
+- https://github.com/SKTBrain/KoBERT
 - 세부 내용은 각 모델 파일 별로 기술해두었으니 참조바랍니다.
