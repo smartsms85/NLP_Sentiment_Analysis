@@ -1,9 +1,9 @@
 
 # ELECTRA 모델 기반 영어 및 한국어 감정 분석기 개발
 
-** 구글 코랩 환경에서 git clone을 우선 진행 후 사용하시기 바랍니다.
+** 구글 코랩 환경에서 git clone을 우선 진행 후 사용하시기 바랍니다.<br>
 ** 모델 및 데이터셋 다운 : !git clone https://github.com/smartsms85/NLP_Sentiment_Analysis.git <br>
-** 모델 및 데이터 파일을 한 번에 다운 가능합니다.
+** 모델 및 데이터 파일을 한 번에 다운 가능합니다.<br>
 
 ## ① 한국어 감정 분석기 개발
 /NSMC/NLP_NSMC_KoELECTRA.ipynb
