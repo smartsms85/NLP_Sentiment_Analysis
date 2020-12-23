@@ -25,7 +25,7 @@
 
 - NSMC, FRIENDS 폴더 내 파일 확인
 
-### ④ 소스코드 및 주요 References
+## ④ 소스코드 및 주요 References
 
 - https://github.com/monologg/KoELECTRA
 - https://huggingface.co/transformers/training.html
